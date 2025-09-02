@@ -1,4 +1,4 @@
-CREATE  MASTER KEY ENCRYPTION BY PASSWORD = 'Password@123'
+CREATE  MASTER KEY ENCRYPTION BY PASSWORD = '*********'
 
 -- create db credentials
 
