@@ -1,0 +1,52 @@
+[
+    {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Calendar.csv",
+        "p_sink_folder": "Calender",
+        "p_sink_fileName": "calender.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Customers.csv",
+        "p_sink_folder": "Customers",
+        "p_sink_fileName": "customers.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder": "Categories",
+        "p_sink_fileName": "product_categories.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder": "Sub_Categories",
+        "p_sink_fileName": "subCategories.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Products.csv",
+        "p_sink_folder": "Products",
+        "p_sink_fileName": "products.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Returns.csv",
+        "p_sink_folder": "Returns",
+        "p_sink_fileName": "returns.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder": "Sakes2015",
+        "p_sink_fileName": "sales2015.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder": "Sales2016",
+        "p_sink_fileName": "sales2016.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder": "Sales2017",
+        "p_sink_fileName": "sales2017.csv"
+    },
+      {
+        "parameter_relative_url": "ramandeep-12/azureDataProject/refs/heads/main/AdventureWorks_Territories.csv",
+        "p_sink_folder": "Territories",
+        "p_sink_fileName": "teritorries.csv"
+    }
+]
